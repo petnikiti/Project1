@@ -1,0 +1,9 @@
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.AssemblyInfo.cs
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net48\TrackerLibrary.dll
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net48\TrackerLibrary.pdb
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.dll
+C:\Users\Peta\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.pdb

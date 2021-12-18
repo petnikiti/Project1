@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb78fbbc-10e8-4b80-b10b-231d8eb513f1": {
+      "ProjectGuid": "cb78fbbc-10e8-4b80-b10b-231d8eb513f1",
+      "DisplayName": "TrackerLibrary",
+      "ColorIndex": 0
+    },
+    "58fdce63-9c3a-401b-a7f9-624c9348da5f": {
+      "ProjectGuid": "58fdce63-9c3a-401b-a7f9-624c9348da5f",
+      "DisplayName": "TrackerUI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "26b952ae-a15c-459d-be5f-330c0f2e0372": {
+      "ProjectGuid": "26b952ae-a15c-459d-be5f-330c0f2e0372",
+      "DisplayName": "TrackerUI",
+      "ColorIndex": 2
+    },
+    "acc0c0a3-f879-4cba-94b0-43a0b3d1e8e6": {
+      "ProjectGuid": "acc0c0a3-f879-4cba-94b0-43a0b3d1e8e6",
+      "DisplayName": "CreateTournamentForm",
+      "ColorIndex": 3
+    },
+    "052ec6a3-2efb-48a4-9a62-9f25af70bd0b": {
+      "ProjectGuid": "052ec6a3-2efb-48a4-9a62-9f25af70bd0b",
+      "DisplayName": "CreateTeamForm",
+      "ColorIndex": 4
+    },
+    "c8ad3fd1-1dea-46dd-b56d-6aecda591b7a": {
+      "ProjectGuid": "c8ad3fd1-1dea-46dd-b56d-6aecda591b7a",
+      "DisplayName": "CreatePrizeForm",
+      "ColorIndex": 5
+    },
+    "ebabf1ac-916c-4884-b1dd-2ec6646d0b5f": {
+      "ProjectGuid": "ebabf1ac-916c-4884-b1dd-2ec6646d0b5f",
+      "DisplayName": "TournamentDashboardForm",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
