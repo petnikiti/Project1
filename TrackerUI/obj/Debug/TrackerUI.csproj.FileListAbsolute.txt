@@ -16,3 +16,4 @@ C:\Users\Peta\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.
 C:\Users\Peta\source\repos\TournamentTracker\TrackerUI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Peta\source\repos\TournamentTracker\TrackerUI\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Peta\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\Peta\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources

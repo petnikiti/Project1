@@ -35,5 +35,27 @@ namespace TrackerLibrary
         /// The number that represents the percentage of the overall take or zero if it is not used
         /// </summary>
         public double PrizePercentage { get; set; }
+        public PrizeModel()
+        {
+
+        }
+
+        public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
+        {
+            PlaceName = placeName;
+
+            int placeNumberValue = 0;
+            int.TryParse(placeNumber, out placeNumberValue);
+            PlaceNuber = placeNumberValue;
+
+
+            decimal prizeAmountValue = 0;
+            decimal.TryParse(prizeAmount, out prizeAmountValue);
+            PrizeAmount = prizeAmountValue;
+
+            double prizePercentageValue = 0;
+            double.TryParse(prizePercentage, out prizePercentageValue);
+            PrizePercentage = prizePercentageValue;
+        }
     }
 }
