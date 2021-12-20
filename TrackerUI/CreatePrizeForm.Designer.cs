@@ -31,8 +31,8 @@
             this.headerLabel = new System.Windows.Forms.Label();
             this.placeNumberValue = new System.Windows.Forms.TextBox();
             this.placeNumberLabel = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.placeNameValue = new System.Windows.Forms.Label();
+            this.placeNameValue = new System.Windows.Forms.TextBox();
+            this.placeNameLabel = new System.Windows.Forms.Label();
             this.prizeAmountValue = new System.Windows.Forms.TextBox();
             this.prizeAmountLabel = new System.Windows.Forms.Label();
             this.prizePercentageValue = new System.Windows.Forms.TextBox();
@@ -70,23 +70,23 @@
             this.placeNumberLabel.TabIndex = 24;
             this.placeNumberLabel.Text = "Place number:";
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(167, 127);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(178, 35);
-            this.textBox1.TabIndex = 27;
-            // 
             // placeNameValue
             // 
-            this.placeNameValue.AutoSize = true;
-            this.placeNameValue.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.placeNameValue.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.placeNameValue.Location = new System.Drawing.Point(16, 130);
+            this.placeNameValue.Location = new System.Drawing.Point(167, 127);
             this.placeNameValue.Name = "placeNameValue";
-            this.placeNameValue.Size = new System.Drawing.Size(125, 30);
-            this.placeNameValue.TabIndex = 26;
-            this.placeNameValue.Text = "Place name:";
+            this.placeNameValue.Size = new System.Drawing.Size(178, 35);
+            this.placeNameValue.TabIndex = 27;
+            // 
+            // placeNameLabel
+            // 
+            this.placeNameLabel.AutoSize = true;
+            this.placeNameLabel.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.placeNameLabel.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.placeNameLabel.Location = new System.Drawing.Point(16, 130);
+            this.placeNameLabel.Name = "placeNameLabel";
+            this.placeNameLabel.Size = new System.Drawing.Size(125, 30);
+            this.placeNameLabel.TabIndex = 26;
+            this.placeNameLabel.Text = "Place name:";
             // 
             // prizeAmountValue
             // 
@@ -94,6 +94,7 @@
             this.prizeAmountValue.Name = "prizeAmountValue";
             this.prizeAmountValue.Size = new System.Drawing.Size(178, 35);
             this.prizeAmountValue.TabIndex = 29;
+            this.prizeAmountValue.Text = "0";
             // 
             // prizeAmountLabel
             // 
@@ -112,6 +113,7 @@
             this.prizePercentageValue.Name = "prizePercentageValue";
             this.prizePercentageValue.Size = new System.Drawing.Size(159, 35);
             this.prizePercentageValue.TabIndex = 31;
+            this.prizePercentageValue.Text = "0";
             // 
             // prizePercentageLabel
             // 
@@ -162,8 +164,8 @@
             this.Controls.Add(this.prizePercentageLabel);
             this.Controls.Add(this.prizeAmountValue);
             this.Controls.Add(this.prizeAmountLabel);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.placeNameValue);
+            this.Controls.Add(this.placeNameLabel);
             this.Controls.Add(this.placeNumberValue);
             this.Controls.Add(this.placeNumberLabel);
             this.Controls.Add(this.headerLabel);
@@ -181,8 +183,8 @@
         private System.Windows.Forms.Label headerLabel;
         private System.Windows.Forms.TextBox placeNumberValue;
         private System.Windows.Forms.Label placeNumberLabel;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Label placeNameValue;
+        private System.Windows.Forms.TextBox placeNameValue;
+        private System.Windows.Forms.Label placeNameLabel;
         private System.Windows.Forms.TextBox prizeAmountValue;
         private System.Windows.Forms.Label prizeAmountLabel;
         private System.Windows.Forms.TextBox prizePercentageValue;
